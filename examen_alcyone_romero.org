@@ -1,9 +1,9 @@
 —Alcyone Romero Gräter—
 
 #+TITLE: Examen de JavaScript
-#+AUTHOR: Patricio Martínez
+#+AUTHOR: Alcyone Romero
 #+DATE: \22 - Junio - 2018
-#+EMAIL: maxxcan@gmail.com
+#+EMAIL: alrogra@gmail.com
 #+OPTIONS: toc:nil 
 #+LATEX_HEADER:\usepackage[spanish]{babel}
 #+LaTeX_CLASS_OPTIONS: [addpoints, 12]{exam}
@@ -11,7 +11,7 @@
 * Qué es un Devops
 
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1) El cargo de una persona en una empresa
@@ -21,7 +21,7 @@
 
 * Algunas de sus fases de trabajo 
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1) Integración continua y continuo desarrollo
@@ -32,7 +32,7 @@
 * Por qué la documentación es importante
 
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1) Evita errores
@@ -43,7 +43,7 @@
 * Qué se gana con la cultura Devops 
 
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1) Los equipos que practican Devops despliegan 30 veces más frecuente, fallan 60 veces menos y se recuperan 160 veces más rápido x
@@ -54,7 +54,7 @@
 * Qué significa git clone en el control de versiones Git
 
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1) Clonamos un repositorio x
@@ -65,7 +65,7 @@
 * Cómo agregamos a la Git todos los ficheros de un directorio
 
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1) Git all 
@@ -76,7 +76,7 @@
 * Cómo creo una rama en Git 
 
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1) Git ranch nueva-rama
@@ -87,7 +87,7 @@
 * Cuál es el comando más rápido para hacer un commit con mensaje
 
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1) Git commit -mensaje 
@@ -98,7 +98,7 @@
 * Cómo puedo ver los cambios que se produjeron en mi repositorio ayer
 
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 
@@ -110,7 +110,7 @@
 * Con qué comando de Git subimos un fichero al repositorio del servidor
 
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1) Git pull
@@ -121,7 +121,7 @@
 * Cómo se sabe quien es la persona que ha modificado un archivo
 
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 
@@ -137,7 +137,7 @@
 * Cómo nos descargamos un contenedor con Docker 
 
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1) docker pull contenedor x
@@ -148,7 +148,7 @@
 * Cómo ejecutamos de forma interactiva un contenedor 
 
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1) docker run contenedor 
@@ -159,7 +159,7 @@
 * Cómo borramos una imagen con Docker
 
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1) docker rm imagen
@@ -170,7 +170,7 @@
 * Cuantas libertades tiene el software libre
 
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1) tres
@@ -181,7 +181,7 @@
 * Cómo creo un directorio en bash
 
 :PROPERTIES:
-:points:   
+:points:   0
 :END:
 
 1) dir directorio x
@@ -192,7 +192,7 @@
 * En bash como borro un directorio
 
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1) rm directorio 
@@ -203,7 +203,7 @@
 * Una forma rápida de crear un archivo en bash
 
 :PROPERTIES:
-:points:   
+:points:   0
 :END:
 
 1) touch archivo
@@ -214,7 +214,7 @@
 * Qué es Redux 
 
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1) Una función enzimática
@@ -225,7 +225,7 @@
 * Cual es el mejor sistema operativo del mundo 
 
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1) Linux
